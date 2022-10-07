@@ -5,5 +5,5 @@ git push
 git pull
 git branch "insertnom"
 git checkout
-
+.
 
