@@ -3,3 +3,5 @@ git add .
 git commit -m "ton commit"
 git push -u origin main
 git pull
+git branch
+git checkout
