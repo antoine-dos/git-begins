@@ -1,0 +1,4 @@
+git clone "repository"
+git add .
+git commit -m "ton commit"
+git push -u origin main
